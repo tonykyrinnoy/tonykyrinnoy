@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Ukraine 🇺🇦.
+#### I'm a Front-End Developer working in Ukraine 🇺🇦.
 
 ##### NOW
 

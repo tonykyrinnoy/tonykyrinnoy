@@ -14,5 +14,5 @@
 - 🌍 I'm mostly active within the **Laravel Community**
 - 🌱 Learning all about **Open Source**
 - 💬 Ping me about **design**, **branding**, **laravel**, **development**, **design thinking**
-- 📫 Reach me: [anton.kyrinnoyy@gmail.com](mailto:anton.kyrinnoyy@gmail.com)
+- 📫 Reach me: [antonkurinnoy89@gmail.com](mailto:antonkurinnoy89@gmail.com)
 - ⚡️ Fun fact: I'm a huge fan of Star Wars
